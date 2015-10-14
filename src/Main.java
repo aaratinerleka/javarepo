@@ -61,6 +61,7 @@ public class Main extends JFrame
     private static final String DB          = "search";
     private static final String LOCAL       = "localhost";
     private static final String PORT        = "3306";
+    //hi
     static SimpleDateFormat dt1 = new SimpleDateFormat("dd/MM/yyyy");
     static SimpleDateFormat dt2 = new SimpleDateFormat("yyyy-MM-dd");
  //  JPanel pane = new JPanel(new GridLayout(0,1));
